@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-28T12:27:31.027Z",
+        "reason": "Claude: deliberate shared brand token, matches sibling project doodle-pond/src/style.css --paper #f1eee7 and its live site"
+      }
+    ]
+  }
+}
